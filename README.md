@@ -1,7 +1,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![CI](https://github.com/emacs-languagetool/lsp-languagetool/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-languagetool/lsp-languagetool/actions/workflows/test.yml)
 
 # lsp-languagetool
+
+[![CI](https://github.com/emacs-languagetool/lsp-languagetool/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-languagetool/lsp-languagetool/actions/workflows/test.yml)
 
 `lsp-mode` client leveraging [LanguageTool Language Server](https://github.com/languagetool-language-server/languagetool-languageserver).
 
