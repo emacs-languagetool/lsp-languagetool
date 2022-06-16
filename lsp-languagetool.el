@@ -4,11 +4,10 @@
 ;; Created date 2021-04-05 23:30:46
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
-;; Description: LSP Client for LanguageTool.
-;; Keyword: lsp languagetool checker
+;; URL: https://github.com/emacs-languagetool/lsp-languagetool
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "26.1") (lsp-mode "6.1"))
-;; URL: https://github.com/emacs-languagetool/lsp-languagetool
+;; Keywords: lsp languagetool checker
 
 ;; This file is NOT part of GNU Emacs.
 
