@@ -3,7 +3,7 @@
          "LSP Client for LanguageToo")
 
 (website-url "https://github.com/emacs-languagetool/lsp-languagetool")
-(keywords "lsp" "languagetool" "checker")
+(keywords "convenience" "lsp" "languagetool" "checker")
 
 (package-file "lsp-languagetool.el")
 
