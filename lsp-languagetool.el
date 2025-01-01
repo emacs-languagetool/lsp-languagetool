@@ -1,6 +1,6 @@
 ;;; lsp-languagetool.el --- LSP Client for LanguageTool  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2021-2024  Shen, Jen-Chieh
+;; Copyright (C) 2021-2025  Shen, Jen-Chieh
 ;; Created date 2021-04-05 23:30:46
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
