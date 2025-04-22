@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "lsp-languagetool"
          "0.1.0"
          "LSP Client for LanguageToo")
