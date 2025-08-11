@@ -6,7 +6,7 @@
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; URL: https://github.com/emacs-languagetool/lsp-languagetool
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "26.1") (lsp-mode "6.1"))
+;; Package-Requires: ((emacs "28.1") (lsp-mode "6.1"))
 ;; Keywords: convenience lsp languagetool checker
 
 ;; This file is NOT part of GNU Emacs.
